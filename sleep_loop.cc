@@ -1,4 +1,4 @@
-#include <unistd.h> // POSIX Api
+#include <unistd.h> // POSIX API
 #include <iostream>
 #include <string>
 #include <sstream>
